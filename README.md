@@ -1,16 +1,32 @@
-# first_app
+# FocusTimer
 
-A new Flutter project.
+## Status: In Development
+This Flutter application is currently in development. It is designed to help students manage and monitor their study sessions, with features that allow timing, recording, and analyzing the time dedicated to studying.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+FocusTimer allows users to time study sessions, save them with a specific topic and date, and view the total time spent studying for certain periods. The functionality of the application will be progressively enriched with further updates.
 
-A few resources to get you started if this is your first Flutter project:
+### Main Features:
+- **Timer**: Start, stop, and reset a stopwatch.
+- **Topic Management**: Add or remove study topics.
+- **Session Saving**: Study sessions are saved locally and can be viewed and removed.
+- **Filter**: Filter study sessions by topic and date.
+- **Statistics**: View the total hours of study.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- SharedPreferences for data persistence.
+
+## Installation
+
+To use this application, you must have Flutter installed on your system. Follow these instructions to set up the Flutter environment: [Flutter Installation](https://flutter.dev/docs/get-started/install).
+
+## Contributing
+
+The project is open to contributions for improving existing features and adding new features. If you wish to contribute, you can fork the repository, make your changes, and submit a pull request.
+
+
+
